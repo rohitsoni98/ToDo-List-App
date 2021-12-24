@@ -1,0 +1,32 @@
+@media (max-width: 768px){
+    .center_div{
+        width: 40%;
+        height: 90vh;
+    }
+
+    .todo_style .fa-times-circle{
+        margin: 0px 15px 0px 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    button{
+        margin-left: 5px;
+        min-height: 40px;
+        color: #fff;
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 430px){
+    .center_div {
+        width: 65%;
+    }
+}
+
+@media (max-width: 325px){
+    .center_div {
+        width: 90%;
+    }
+}
