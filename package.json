@@ -1,5 +1,6 @@
 {
   "name": "todolist",
+  "homepage": "https://rohitsoni98/github.io/ToDo-List-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
